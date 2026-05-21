@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Claude local settings
+.claude/settings.local.json
+
+# Node
+node_modules/
+dist/
+.env
+.env.local
